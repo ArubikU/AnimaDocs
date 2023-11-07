@@ -1,1 +1,1 @@
-# Genericos
+# Bloques de Mineral
