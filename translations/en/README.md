@@ -1,5 +1,3 @@
----
-description: Lugar de inicio para cada aventurero
----
+# NPC
 
-# Spawn
+NPCS que te ayudaran en tu inicio
