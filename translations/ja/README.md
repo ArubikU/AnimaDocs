@@ -1,5 +1,5 @@
 ---
-description: La lista de recursos custom del servidor
+description: Lingotes crafteables o cocinables
 ---
 
-# Recursos
+# Lingotes
