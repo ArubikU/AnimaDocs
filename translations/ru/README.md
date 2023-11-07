@@ -1,3 +1,3 @@
-# NPC
+# Puntos de Interes
 
-NPCS que te ayudaran en tu inicio
+Lugares de interes en el spawn
