@@ -1,5 +1,1 @@
----
-description: Kits disponibles
----
-
-# Kits
+# Loot
