@@ -1,5 +1,1 @@
----
-description: Mecanicas del servidor
----
-
-# Mecanicas
+# Enemigos
