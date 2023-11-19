@@ -50,4 +50,12 @@ Descubre la versatilidad de cajones simples hasta estantes Eldritch que muestran
 
 ¡Dale vida a tu personaje en el juego con pieles animadas! Utiliza el píxel de control, ajusta la duración y la interpolación para crear efectos visuales dinámicos. ¡Explora la creatividad y haz que tu piel destaque en el mundo del juego!
 {% endtab %}
+
+{% tab title="Rituales" %}
+
+## [rituales.md](../readme/mecanicas/rituales.md "mention")
+
+Descubre el misterioso arte de los rituales en la Wiki de la Comunidad Runecraft. Esta categoría te guiará a través de ceremonias y prácticas especiales que te permitirán realizar crafteos únicos y poderosos. Desde rituales simples hasta complejas invocaciones, aquí encontrarás un sinfín de posibilidades.\\
+
+{% endtab %}
 {% endtabs %}
