@@ -14,11 +14,11 @@ layout:
 
 # Rituales
 
-### Ritual de Runas Tier 1
+Ritual de Runas Tier 1
 
 Permite la fabricación de runas básicas consumiendo redstone. Una introducción esencial para aquellos que desean desbloquear nuevos poderes a través de la artesanía.
 
-<figure><img src="../../.gitbook/assets/runecrafting1 (1).gif" alt=""><figcaption></figcaption></figure>
+{% embed url="https\://sketchfab.com/3d-models/runecrafting1-cfa4f2077bab411d87d8dcb0de2b902e" %}
 
 #### Materiales
 
