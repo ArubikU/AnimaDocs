@@ -1,8 +1,8 @@
 # Runecraft 🇬🇧
 
-## Welcome to the Runecraft wiki
+## Welcome to the Runecraft community wiki
 
-Welcome to the runecraft wiki, a documentation about the server maintained by the server admins!
+Welcome to the runecraft community wiki, a documentation of the server maintained by the server admins!
 
 ¿Formato de página incorrecto?\
 Puedes ayudar con el marcado de la wiki.
@@ -15,17 +15,17 @@ Do you want to get in touch with us or keep up to date with what's new on our wi
 
 {% tabs %}
 {% tab title="Mechanics" %}
-In this section of the Runecraft Community Wiki, you will find detailed information about the different game mechanics. Explora artículos sobre clases, trabajos, razas, profesiones, rituales y más.
+In this section of the Runecraft Community Wiki, you will find detailed information about the different game mechanics. Explore articles about classes, jobs, taxes, professions, rituals, and more.
 
-Si estás buscando información específica sobre cómo mejorar tus habilidades, elegir la profesión adecuada o desentrañar los secretos de las razas, estás en el lugar correcto. ¡Pero eso no es todo! En la categoría de Mecánicas, encontrarás una amplia variedad de temas que te ayudarán a dominar el mundo de Runecraft.
+If you are looking for specific information about how to improve your abilities, choose the right profession, or uncover the secrets of the races, you are in the right place. But that isn't all! In the mechanics category, you'll find a wide variety of topics that will help you dominate the world of runecraft.
 
-¡Explora y descubre todo lo que necesitas saber para convertirte en un experto en el juego!
+Explore and discover everything that you need to know to become an expert at the game!
 
-[mecanicas](mecanicas/ "mention")
+[mechanics](mechanics/ "mention")
 {% endtab %}
 
 {% tab title="Items" %}
-Bienvenido a la sección de Items de la Wiki de la Comunidad Runecraft. Aquí encontrarás una extensa colección de información sobre una variedad de objetos que encontrarás en el mundo del juego.
+Welcome to the Items section of the Runecraft Community Wiki. Aquí encontrarás una extensa colección de información sobre una variedad de objetos que encontrarás en el mundo del juego.
 
 #### Tipos de Items
 
