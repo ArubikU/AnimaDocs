@@ -25,38 +25,38 @@ Explore and discover everything that you need to know to become an expert at the
 {% endtab %}
 
 {% tab title="Items" %}
-Welcome to the Items section of the Runecraft Community Wiki. Aquí encontrarás una extensa colección de información sobre una variedad de objetos que encontrarás en el mundo del juego.
+Welcome to the Items section of the Runecraft Community Wiki. Here you will find an extensive collection of information about a variety of objects that you will find in the game world.
 
-#### Tipos de Items
+#### Types of Items
 
 [items](items/ "mention")
 
-Descubre cómo crear tus propios objetos a través de la artesanía y aprovecha al máximo tus recursos.
+Discover how to create your own objects through crafting and making the best use of your resources.
 
 **Objetos de Dungeons**
 
-Sumérgete en el mundo de los calabozos y aprende sobre los tesoros y desafíos que te esperan en las profundidades.
+Submerge yourself in the world of dungeons and learn about the treasures and challenges that await you in the depths.
 
-[accesorios](items/accesorios/ "mention")
+[accessories](items/accessories/ "mention")
 
-Encuentra los complementos perfectos para mejorar tus habilidades y protegerte en la batalla.
+Find the perfect accessories to improve your abilities and protect you in battle.
 
-[llaves](items/llaves/ "mention")
+[keys](items/keys/ "mention")
 
-Desbloquea secretos y accede a áreas restringidas con información detallada sobre llaves y su uso.
+Unlock secrets and access restricted areas with detailed information about keys and their use.
 
-[recursos](items/recursos/ "mention")
+[resources](items/resources/ "mention")
 
-Aprende sobre los materiales y elementos esenciales que te ayudarán a forjar tu camino hacia la grandeza.
+Learn about the essential materials and elements that will help you forge your path to greatness.
 
-[vanilla](items/genericos/vanilla/ "mention")
+[vanilla](items/generic/vanilla/ "mention")
 
-Explora la amplia gama de objetos estándar que el juego tiene para ofrecer. Estos items forman la base de tu aventura en el mundo de Runecraft y proporcionan las herramientas esenciales para tu viaje.
+Explore the wide spectrum of standard objects that the game has to offer. These items form the base of your adventure in the world of Runecraft and will provide the essential tools for your journey.
 
-#### ¡Explora y Conquista!
+#### Explore and conquer!
 
-Sumérgete en la riqueza de información sobre items que hemos preparado para ti. Ya sea que estés buscando el mejor equipo para enfrentarte a los desafíos o desees dominar el arte de la creación, la sección de Items es tu guía completa.
+Submerge yourself in the wealth of information about items that we have prepared for you. Whether you are looking for the best team to face the challenges, or want to dominate the art of creation, the Items section will be your complete guide.
 
-¡Adéntrate en el mundo de los objetos y descubre el poder que pueden brindarte!
+Enter into the world of objects and discover the power that they can offer you!
 {% endtab %}
 {% endtabs %}
