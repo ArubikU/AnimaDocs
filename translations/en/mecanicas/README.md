@@ -58,4 +58,12 @@ Descubre la versatilidad de cajones simples hasta estantes Eldritch que muestran
 Descubre el misterioso arte de los rituales en la Wiki de la Comunidad Runecraft. Esta categoría te guiará a través de ceremonias y prácticas especiales que te permitirán realizar crafteos únicos y poderosos. Desde rituales simples hasta complejas invocaciones, aquí encontrarás un sinfín de posibilidades.\\
 
 {% endtab %}
+
+{% tab title="Dimensiones" %}
+
+## [dimensiones.md](../readme/mecanicas/dimensiones.md "mention")
+
+Explora las dimensiones de Minecraft, cada una con su propio ambiente único y desafíos especiales. Desde la diversidad del Overworld hasta la hostilidad del Nether y la misteriosa atmósfera del End, sumérgete en mundos más allá de las nubes con Beyond the Clouds. Descubre las particularidades de cada dimensión y desbloquea secretos extraordinarios en tu viaje por Minecraft.
+
+{% endtab %}
 {% endtabs %}
