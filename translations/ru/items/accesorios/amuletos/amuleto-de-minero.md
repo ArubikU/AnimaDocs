@@ -8,4 +8,4 @@ Se puede obtener de los [cofre-de-madera-mina.md](../../../runecraft/extras/loot
 
 ## Estadísticas
 
-![](<../../../.gitbook/assets/image (2).png>)
+![](<../../../.gitbook/assets/image (2) (3).png>)
