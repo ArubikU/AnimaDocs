@@ -59,4 +59,10 @@ Sumérgete en la riqueza de información sobre items que hemos preparado para ti
 
 ¡Adéntrate en el mundo de los objetos y descubre el poder que pueden brindarte!
 {% endtab %}
+
+{% tab title="Guias" %}
+En esta seccion encontraras guias para poder iniciar tu aventura si tienes algun amigo que tenga una guia util escribenos en un ticket y la agregaremos despues de pasar por verificaciones ;)
+
+[guias-para-aprender-a-jugar](readme/guias-para-aprender-a-jugar/ "mention")
+{% endtab %}
 {% endtabs %}
