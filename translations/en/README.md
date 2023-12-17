@@ -57,6 +57,12 @@ Explore the wide spectrum of standard objects that the game has to offer. These 
 
 Submerge yourself in the wealth of information about items that we have prepared for you. Whether you are looking for the best team to face the challenges, or want to dominate the art of creation, the Items section will be your complete guide.
 
-Enter into the world of objects and discover the power that they can offer you!
+¡Adéntrate en el mundo de los objetos y descubre el poder que pueden brindarte!
+{% endtab %}
+
+{% tab title="Guias" %}
+En esta seccion encontraras guias para poder iniciar tu aventura si tienes algun amigo que tenga una guia util escribenos en un ticket y la agregaremos despues de pasar por verificaciones ;)
+
+[guias-para-aprender-a-jugar](readme/guias-para-aprender-a-jugar/ "mention")
 {% endtab %}
 {% endtabs %}
