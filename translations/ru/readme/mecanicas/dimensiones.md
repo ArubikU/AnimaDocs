@@ -48,7 +48,7 @@ El Nether es una dimensión que contiene océanos de lava y se considera el infr
 - El uso de un ancla de reaparición cargada establece el punto de generación (explota cuando se usa en otras dimensiones).
 - Imposibilidad de colocar agua sin un caldero.
 
-### EL Fin
+### El Fin
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
@@ -64,11 +64,12 @@ El End es una dimensión espacial con islas flotantes de piedra de End, accesibl
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-Beyond the Clouds agrega una nueva dimensión que está... bueno, más allá de las nubes. Incluye:
+El cielo o aether como les guste llamar es una dimension especial con varios nuevos biomas.
 
 - Una nueva dimensión en forma de islas flotantes.
 - Accesible yendo por encima del nivel Y 448 en el Overworld.
 - Abandonada yendo por debajo del nivel Y -48 en la dimensión.
-- Cinco nuevos biomas: Las Islas Cerezo, Las Islas Exuberantes, Las Islas Bosque de Flores, Las Islas Bosque Oscuro y Las Islas Arboleda Congelada.
+- Seis nuevos biomas: Las Islas Cerezo, Las Islas Exuberantes, El bosque Otoñal, Las Islas Bosque de Flores, Las Islas Bosque Oscuro y Las Islas Arboleda Congelada.
 - Una nueva estructura: El Pueblo Celestial, una versión flotante de un pueblo normal.
 - Dos nuevos avances: Uno otorgado al llegar a la dimensión y otro al explorar los 5 nuevos biomas.
+- Un nuevo mineral: [mineral-del-cielo.md](../items/genericos/bloques-de-mineral/mineral-del-cielo.md "mention")
