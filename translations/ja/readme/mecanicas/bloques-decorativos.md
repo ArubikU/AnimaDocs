@@ -14,12 +14,6 @@ layout:
 
 # Bloques Decorativos
 
-## Cajón
-
-Un bloque decorativo simple.
-
-<figure><img src="../../.gitbook/assets/sprite_7.png" alt=""><figcaption></figcaption></figure>
-
 ## Vitrina
 
 Muestra el artículo más a la izquierda almacenado en ese bloque. Esto es útil para tiendas que venden objetos raros o para exhibir bloques únicos, como el huevo de dragón.
@@ -34,7 +28,7 @@ Un bloque principalmente decorativo que mostrará varias texturas de polvo cuand
 
 <figure><img src="../../.gitbook/assets/sprite_0 (1).png" alt=""><figcaption></figcaption></figure>
 
-## Caja
+## Estante
 
 Un bloque principalmente decorativo que mostrará varias texturas de polvo cuando la ranura más a la izquierda contenga un "objeto merecedor de caja". ¡Por qué no intentas descubrirlos todos!
 
