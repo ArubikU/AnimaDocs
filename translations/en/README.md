@@ -1,62 +1,68 @@
-# Runecraft 🇪🇸
+# Runecraft 🇬🇧
 
-## Bienvenido a la Wiki de la Comunidad Runecraft
+## Welcome to the Runecraft community wiki
 
-¡Bienvenido a la Wiki de la Comunidad Runecraft, una documentación del Servidor mantenida por los administradores!
+Welcome to the runecraft community wiki, a documentation of the server maintained by the server admins!
 
-¿Formato de página incorrecto? \
+¿Formato de página incorrecto?\
 Puedes ayudar con el marcado de la wiki.
 
-¿Quieres ponerte en contacto con nosotros o estar al día de las novedades de nuestra wiki? ¿Quieres obtener más información o hablar con nuestro equipo de administración de la wiki? ¡Únete a nosotros en [discord ](https://discord.runecraft.me)aquí!
+Do you want to get in touch with us or keep up to date with what's new on our wiki? Want to find out more or talk to our wiki administration team? Join us on [discord ](https://discord.runecraft.me)here!
 
-### Pagina en español
+### Page in English
 
-## Categorias
+## Categories
 
 {% tabs %}
-{% tab title="Mecanicas" %}
-En esta sección de la Wiki de la Comunidad Runecraft, encontrarás información detallada sobre las diferentes mecánicas del juego. Explora artículos sobre clases, trabajos, razas, profesiones, rituales y más.
+{% tab title="Mechanics" %}
+In this section of the Runecraft Community Wiki, you will find detailed information about the different game mechanics. Explore articles about classes, jobs, taxes, professions, rituals, and more.
 
-Si estás buscando información específica sobre cómo mejorar tus habilidades, elegir la profesión adecuada o desentrañar los secretos de las razas, estás en el lugar correcto. ¡Pero eso no es todo! En la categoría de Mecánicas, encontrarás una amplia variedad de temas que te ayudarán a dominar el mundo de Runecraft.
+If you are looking for specific information about how to improve your abilities, choose the right profession, or uncover the secrets of the races, you are in the right place. But that isn't all! In the mechanics category, you'll find a wide variety of topics that will help you dominate the world of runecraft.
 
-¡Explora y descubre todo lo que necesitas saber para convertirte en un experto en el juego!
+Explore and discover everything that you need to know to become an expert at the game!
 
-[#mecanicas](./#mecanicas "mention")
+[mechanics](mechanics/ "mention")
 {% endtab %}
 
-{% tab title="Enemigos" %}
-Bienvenido a la sección de Items de la Wiki de la Comunidad Runecraft. Aquí encontrarás una extensa colección de información sobre una variedad de objetos que encontrarás en el mundo del juego.
+{% tab title="Items" %}
+Welcome to the Items section of the Runecraft Community Wiki. Here you will find an extensive collection of information about a variety of objects that you will find in the game world.
 
-### Tipos de Items
+#### Types of Items
 
-#### [Crafteables](./#crafteables)
+[items](items/ "mention")
 
-Descubre cómo crear tus propios objetos a través de la artesanía y aprovecha al máximo tus recursos.
+Discover how to create your own objects through crafting and making the best use of your resources.
 
-#### Objetos de Dungeons
+**Objetos de Dungeons**
 
-Sumérgete en el mundo de los calabozos y aprende sobre los tesoros y desafíos que te esperan en las profundidades.
+Submerge yourself in the world of dungeons and learn about the treasures and challenges that await you in the depths.
 
-#### [Accesorios](./#accesorios)
+[accessories](items/accessories/ "mention")
 
-Encuentra los complementos perfectos para mejorar tus habilidades y protegerte en la batalla.
+Find the perfect accessories to improve your abilities and protect you in battle.
 
-#### [Llaves](./#llaves)
+[keys](items/keys/ "mention")
 
-Desbloquea secretos y accede a áreas restringidas con información detallada sobre llaves y su uso.
+Unlock secrets and access restricted areas with detailed information about keys and their use.
 
-#### [Recursos](items/recursos/)
+[resources](items/resources/ "mention")
 
-Aprende sobre los materiales y elementos esenciales que te ayudarán a forjar tu camino hacia la grandeza.
+Learn about the essential materials and elements that will help you forge your path to greatness.
 
-#### [Items vanilla](items/genericos/vanilla/)
+[vanilla](items/generic/vanilla/ "mention")
 
-Explora la amplia gama de objetos estándar que el juego tiene para ofrecer. Estos items forman la base de tu aventura en el mundo de Runecraft y proporcionan las herramientas esenciales para tu viaje.
+Explore the wide spectrum of standard objects that the game has to offer. These items form the base of your adventure in the world of Runecraft and will provide the essential tools for your journey.
 
-### ¡Explora y Conquista!
+#### Explore and conquer!
 
-Sumérgete en la riqueza de información sobre items que hemos preparado para ti. Ya sea que estés buscando el mejor equipo para enfrentarte a los desafíos o desees dominar el arte de la creación, la sección de Items es tu guía completa.
+Submerge yourself in the wealth of information about items that we have prepared for you. Whether you are looking for the best team to face the challenges, or want to dominate the art of creation, the Items section will be your complete guide.
 
 ¡Adéntrate en el mundo de los objetos y descubre el poder que pueden brindarte!
+{% endtab %}
+
+{% tab title="Guias" %}
+En esta seccion encontraras guias para poder iniciar tu aventura si tienes algun amigo que tenga una guia util escribenos en un ticket y la agregaremos despues de pasar por verificaciones ;)
+
+[guias-para-aprender-a-jugar](readme/guias-para-aprender-a-jugar/ "mention")
 {% endtab %}
 {% endtabs %}
