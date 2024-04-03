@@ -1,2 +1,0 @@
-# Tablas de Loot
-

@@ -1,5 +1,0 @@
----
-description: Kits disponibles
----
-
-# Kits

@@ -1,7 +1,0 @@
-# Monedas
-
-## Doblones
-
-## Aerox
-
-## Runecoins

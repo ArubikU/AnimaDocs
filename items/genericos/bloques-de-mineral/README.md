@@ -1,2 +1,0 @@
-# Bloques de Mineral
-

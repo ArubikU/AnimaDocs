@@ -1,2 +1,0 @@
-# Armas Especiales
-

@@ -1,5 +1,0 @@
----
-description: Items default
----
-
-# Vanilla

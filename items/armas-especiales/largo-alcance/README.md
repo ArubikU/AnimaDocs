@@ -1,2 +1,0 @@
-# Largo Alcance
-
