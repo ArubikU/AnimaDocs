@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-## Mecanicas
+# Mecánicas
 
 Explora la diversidad de mecánicas que ofrece la Wiki de la Comunidad Runecraft. Desde clases y profesiones hasta trabajos, dimensiones, bloques, muebles y pieles animadas, esta categoría abarca una amplia variedad de aspectos del juego.
 
@@ -27,7 +27,7 @@ Sumérgete en la riqueza de información que ofrecemos en la categoría de Mecá
 
 {% tabs %}
 {% tab title="Bloques Decorativos" %}
-### [Bloques Decorativos](/.gitbook/assets/category/extra/decorative/decorative.md)
+#### [Bloques Decorativos](../extra/decorative/decorative.md)
 
 ¡Explora nuestra amplia gama de bloques decorativos en la Wiki de la Comunidad Runecraft! Estos elementos no solo añaden estética a tu mundo, sino que también ofrecen funciones únicas. Desde cajas Shoji que se transforman en linternas de papel hasta vitrinas que exhiben tus tesoros más preciados, nuestra categoría de Bloques Decorativos te guiará a través de las opciones que embellecerán tu experiencia de juego.
 
@@ -37,29 +37,26 @@ Descubre la versatilidad de cajones simples hasta estantes Eldritch que muestran
 {% endtab %}
 
 {% tab title="Muebles y Sillas" %}
-### [Muebles](/.gitbook/assets/category/extra/furniture/furniture.md)
+#### [Muebles](../extra/furniture/furniture.md)
 
 ¡Bienvenido a la sección de Muebles y Sillas en la Wiki de la Comunidad Runecraft, dedicada a la artesanía y diseño de mobiliario excepcional! Explora las posibilidades creativas de mesas, sillas y tronos con nuestra amplia variedad de materiales, cada uno con su propio estilo único.
 {% endtab %}
 
 {% tab title="Skin Animadas" %}
-### [Skins Animadas](/.gitbook/assets/category/mechanical/skins/animated_skins.md)
+#### [Skins Animadas](skins/animated\_skins.md)
 
 ¡Dale vida a tu personaje en el juego con pieles animadas! Utiliza el píxel de control, ajusta la duración y la interpolación para crear efectos visuales dinámicos. ¡Explora la creatividad y haz que tu piel destaque en el mundo del juego!
 {% endtab %}
 
 {% tab title="Rituales" %}
-### [Rituales](/.gitbook/assets/category/mechanical/ritual/ritual.md)
+#### [Rituales](ritual/ritual.md)
 
 Descubre el misterioso arte de los rituales en la Wiki de la Comunidad Runecraft. Esta categoría te guiará a través de ceremonias y prácticas especiales que te permitirán realizar crafteos únicos y poderosos. Desde rituales simples hasta complejas invocaciones, aquí encontrarás un sinfín de posibilidades./
-
 {% endtab %}
 
 {% tab title="Dimensiones" %}
-### [Dimensiones](/.gitbook/assets/category/mechanical/dimension/dimension.md)
+#### [Dimensiones](dimension/dimension.md)
 
 Explora las dimensiones de Minecraft, cada una con su propio ambiente único y desafíos especiales. Desde la diversidad del Overworld hasta la hostilidad del Nether y la misteriosa atmósfera del End, sumérgete en mundos más allá de las nubes con Beyond the Clouds. Descubre las particularidades de cada dimensión y desbloquea secretos extraordinarios en tu viaje por Minecraft.
-
-
 {% endtab %}
 {% endtabs %}

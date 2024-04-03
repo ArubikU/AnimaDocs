@@ -1,51 +1,20 @@
 ---
 description: >-
-  La Corona del Minero es un símbolo majestuoso y venerado entre las comunidades mineras. A diferencia del Amuleto del Minero, la Corona es un artefacto ceremonial, diseñado para honrar y reconocer los logros excepcionales en el ámbito de la minería
+  La Corona del Minero es un símbolo majestuoso y venerado entre las comunidades
+  mineras. A diferencia del Amuleto del Minero, la Corona es un artefacto
+  ceremonial, diseñado para honrar y reconocer los
 ---
-[ TODO: Insert foto de Mina en Cover]: #
 
-## Corona del Minero
+# Corona del Minero
 
-<figure>
-    <img src="/.gitbook/assets/img/item/accessories/crown/miner_crown.png" alt="">
-    <figcaption>Corona del Minero</figcaption>
-</figure>
+<figure><img src="../../../../../img/item/accessories/crown/miner_crown.png" alt=""><figcaption><p>Corona del Minero</p></figcaption></figure>
 
-### Forma de obtención
-* Se puede obtener de [Cofre de Madera](/.gitbook/assets/category/extra/loot/chest/wood_chest.md) en [Mina](/.gitbook/assets/category/location/mine/mine.md)
+## Forma de obtención
 
-<table>
-    <caption>Estadísticas</caption>
-    <thead>
-        <tr>
-            <th>Nivel</th>
-            <th>Bonus</th>
-            <th></th>
-            <th>Defensa</th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>10</td>
-            <td>Salud</td>
-            <td>2.5 ~ 7.5</td>
-            <td>Contraataque</td>
-            <td>5.5 ~ 10.5%</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>Fuerza</td>
-            <td>2.5 ~ 7.5</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
+* Se puede obtener de [Cofre de Madera](../../../../extra/loot/chest/wood\_chest.md) en [Mina](../../../../location/mine/mine.md)
+
+| Nivel | Bonus  |            | Defensa      |              |
+| ----- | ------ | ---------- | ------------ | ------------ |
+| 10    | Salud  | 2.5 \~ 7.5 | Contraataque | 5.5 \~ 10.5% |
+|       | Fuerza | 2.5 \~ 7.5 |              |              |
+|       |        |            |              |              |
